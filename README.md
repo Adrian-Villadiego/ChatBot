@@ -57,7 +57,7 @@ Aquí tienes el `README.md` completo en formato Markdown listo para copiar y peg
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/chat-analyzer-bot.git
+git clone https://github.com/rubisabel00/machine-learning-Bot-telegram.git
 cd chat-analyzer-bot
 ```
 
